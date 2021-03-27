@@ -339,7 +339,27 @@ public class AbstractPage {
 		WebElement element = getElement(driver, locator);
 		return (String) jsExecutor.executeScript("return arguments[0].validationMessage;", element);
 	}
-
+	
+	protected void waitForAllElementVisible(WebDriver driver, String locator) {
+		explicitWait = new WebDriverWait(driver, 30);
+		explicitWait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(getByXpath(locator)));
+	}
+	
+	protected void waitForElementVisible(WebDriver driver, String locator) {
+		explicitWait = new WebDriverWait(driver, 30);
+		explicitWait.until(ExpectedConditions.visibilityOfElementLocated(getByXpath(locator)));
+	}
+	
+	protected void waitForElementClickable(WebDriver driver, String locator) {
+		explicitWait = new WebDriverWait(driver, 30);
+		explicitWait.until(ExpectedConditions.elementToBeClickable(getByXpath(locator)));
+	}
+	
+	protected void waitForElementInvisible(WebDriver driver, String locator) {
+		explicitWait = new WebDriverWait(driver, 30);
+		explicitWait.until(ExpectedConditions.invisibilityOfElementLocated(getByXpath(locator)));
+	}
+	
 	protected void sleepInSecond(long timeout) {
 		try {
 			Thread.sleep(timeout * 1000);
