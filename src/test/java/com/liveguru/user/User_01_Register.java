@@ -19,6 +19,28 @@ public class User_01_Register extends AbstractTest {
 
 	@Test
 	public void TC_01() {
+		log.info("Step 01");
+		verifyTrue(false);
+		System.out.println("step 02");
+		verifyTrue(true);
+		System.out.println("step 03");
+		verifyTrue(false);
+		System.out.println("step 04");
+		verifyTrue(true);
+		System.out.println("step 05");
+		verifyFalse(false);
+		System.out.println("step 06");
+		verifyFalse(true);
+		System.out.println("step 07");
+		verifyFalse(false);
+		System.out.println("step 08");
+		verifyFalse(true);
+		System.out.println("step 09");
+		verifyEquals(true, false);
+		System.out.println("step 10");
+		verifyEquals(true, false);
+		System.out.println("step 11");
+		verifyEquals(true, true);
 	}
 
 	@AfterClass(alwaysRun = true)
