@@ -3,6 +3,9 @@
 
 	<listeners>
 		<listener class-name="commons.MethodListener" />
+		<!-- ReportNG -->
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
 	</listeners>
 
 	<parameter name="url" value="http://live.demoguru99.com/" />
@@ -13,31 +16,4 @@
 		</classes>
 	</test>
 
-	<!-- <test name="Run on Chrome headless"> -->
-	<!-- <parameter name="browser" value="Chrome_headless" /> -->
-	<!-- <classes> -->
-	<!-- <class name="com.liveguru.user.User_01_Register" /> -->
-	<!-- </classes> -->
-	<!-- </test> -->
-
-	<!-- <test name="Run on Firefox ui"> -->
-	<!-- <parameter name="browser" value="Firefox_ui" /> -->
-	<!-- <classes> -->
-	<!-- <class name="com.liveguru.user.User_01_Register" /> -->
-	<!-- </classes> -->
-	<!-- </test> -->
-
-	<!-- <test name="Run on Firefox headless"> -->
-	<!-- <parameter name="browser" value="Firefox_headless" /> -->
-	<!-- <classes> -->
-	<!-- <class name="com.liveguru.user.User_01_Register" /> -->
-	<!-- </classes> -->
-	<!-- </test> -->
-
-	<!-- <test name="Run on Edge chromium"> -->
-	<!-- <parameter name="browser" value="Edge_chromium" /> -->
-	<!-- <classes> -->
-	<!-- <class name="com.liveguru.user.User_01_Register" /> -->
-	<!-- </classes> -->
-	<!-- </test> -->
 </suite>

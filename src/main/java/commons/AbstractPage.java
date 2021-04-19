@@ -14,6 +14,8 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import pageObjects.AbstractPageUI;
+
 public class AbstractPage {
 	protected void openPageUrl(WebDriver driver, String url) {
 		driver.get(url);
@@ -99,7 +101,10 @@ public class AbstractPage {
 	protected By getByXpath(String locator) {
 		return By.xpath(locator);
 	}
-
+	 protected String getDynamicLocator(String locator, String... values) {
+		 locator = String.format(locator, (Object[]) values);
+		 return locator;
+	 }
 	protected WebElement getElement(WebDriver driver, String locator) {
 		return driver.findElement(getByXpath(locator));
 
@@ -109,9 +114,20 @@ public class AbstractPage {
 		return driver.findElements(getByXpath(locator));
 
 	}
-
+	
 	protected void clickToElement(WebDriver driver, String locator) {
 		element = getElement(driver, locator);
+		
+		if (driver.toString().contains("edge")) {
+			sleepInMiliSecond(500);
+			element.click();
+		} else {
+			element.click();
+		}
+	}
+
+	protected void clickToElement(WebDriver driver, String locator, String... values) {
+		element = getElement(driver, getDynamicLocator(locator, values));
 
 		if (driver.toString().contains("edge")) {
 			sleepInMiliSecond(500);
@@ -354,10 +370,15 @@ public class AbstractPage {
 		explicitWait = new WebDriverWait(driver, 30);
 		explicitWait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(getByXpath(locator)));
 	}
-
+	
 	protected void waitForElementVisible(WebDriver driver, String locator) {
 		explicitWait = new WebDriverWait(driver, 30);
 		explicitWait.until(ExpectedConditions.visibilityOfElementLocated(getByXpath(locator)));
+	}
+
+	protected void waitForElementVisible(WebDriver driver, String locator, String... values) {
+		explicitWait = new WebDriverWait(driver, 30);
+		explicitWait.until(ExpectedConditions.visibilityOfElementLocated(getByXpath(getDynamicLocator(locator, values))));
 	}
 
 	protected void waitForElementClickable(WebDriver driver, String locator) {
@@ -386,6 +407,17 @@ public class AbstractPage {
 		}
 	}
 
+	/* Common Functions*/
+	public void clickToLinkByPageName(WebDriver driver, String pageName) {
+		waitForElementVisible(driver, AbstractPageUI.DYNAMIC_BLOCK_ACCOUNT_LINK, pageName);
+		clickToElement(driver, AbstractPageUI.DYNAMIC_BLOCK_ACCOUNT_LINK, pageName);
+	}
+	
+	public void clickToLinkInFooterByPageName(WebDriver driver, String pageName) {
+		waitForElementVisible(driver, AbstractPageUI.DYNAMIC_LINK_IN_FOOTER, pageName);
+		clickToElement(driver, AbstractPageUI.DYNAMIC_LINK_IN_FOOTER, pageName);
+	}
+	
 	private WebDriverWait explicitWait;
 	private WebElement element;
 	private Select select;

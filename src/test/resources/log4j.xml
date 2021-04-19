@@ -21,7 +21,7 @@
 	<appender name="file" class="org.apache.log4j.RollingFileAppender">
 		<param name="file" value="./logs/NopCommerce.log" />
 		<param name="append" value="true" />
-		<param name="maxFileSize" value="10MB" />
+		<param name="maxFileSize" value="20MB" />
 		<param name="maxBackupIndex" value="10" />
 		<layout class="org.apache.log4j.PatternLayout">
 			<param name="ConversionPattern" value="[%-5p] [%d] %m%n" />

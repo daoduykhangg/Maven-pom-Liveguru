@@ -1,12 +1,19 @@
-[INFO ] [2021-03-28 22:50:14,177] Step 01
-[INFO ] [2021-03-28 22:50:14,177]  -------------------------- FAILED -------------------------- 
-[INFO ] [2021-03-28 22:50:14,180]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-28 22:50:14,180]  -------------------------- FAILED -------------------------- 
-[INFO ] [2021-03-28 22:50:14,180]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-28 22:50:14,180]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-28 22:50:14,180]  -------------------------- FAILED -------------------------- 
-[INFO ] [2021-03-28 22:50:14,180]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-28 22:50:14,180]  -------------------------- FAILED -------------------------- 
-[INFO ] [2021-03-28 22:50:14,181]  -------------------------- FAILED -------------------------- 
-[INFO ] [2021-03-28 22:50:14,181]  -------------------------- FAILED -------------------------- 
-[INFO ] [2021-03-28 22:50:14,181]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-20 00:41:27,297] Register - Step 01: Click to 'Account' Menu
+[INFO ] [2021-04-20 00:41:27,390] Register - Step 02: Click to 'Register' Link
+[INFO ] [2021-04-20 00:41:27,990] Register - Step 03: Enter to 'First Name' Textbox with value 'Niki'
+[INFO ] [2021-04-20 00:41:28,547] Register - Step 04: Enter to 'Middle Name/Initial' Textbox with value 'Duy'
+[INFO ] [2021-04-20 00:41:29,112] Register - Step 05: Enter to 'Last Name' Textbox with value 'D'Amore'
+[INFO ] [2021-04-20 00:41:29,676] Register - Step 06: Enter to 'Email Address' Textbox with value 'luann.batz@hotmail.com'
+[INFO ] [2021-04-20 00:41:30,241] Register - Step 07: Enter to 'Password' Textbox with value '09bq2um'
+[INFO ] [2021-04-20 00:41:30,807] Register - Step 08: Enter to 'Confirm Password' Textbox with value '09bq2um'
+[INFO ] [2021-04-20 00:41:31,373] Register - Step 09: Click to 'Register' Button
+[INFO ] [2021-04-20 00:41:32,750] Register - Step 10: Verify the success message is displayed with value 'Thank you for registering with Main Website Store.' 
+[INFO ] [2021-04-20 00:41:32,778]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-20 00:41:32,837] Register[Verify]  - Step 01: Click to 'My Account' Link
+[INFO ] [2021-04-20 00:41:33,332] Register[Verify]  - Step 02: Click to 'Account Information' Link
+[INFO ] [2021-04-20 00:41:33,820] Register[Verify]  - Step 03: Verify the value of 'Firstname' Textbox is displayed with value 'Niki'
+[INFO ] [2021-04-20 00:41:33,847]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-20 00:41:33,847] Register[Verify]  - Step 04: Verify the value of 'Lastname' Textbox is displayed with value 'D'Amore'
+[INFO ] [2021-04-20 00:41:33,871]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-20 00:41:33,871] Register[Verify]  - Step 05: Verify the value of 'Email' Textbox is displayed with value 'luann.batz@hotmail.com'
+[INFO ] [2021-04-20 00:41:33,908]  -------------------------- PASSED -------------------------- 

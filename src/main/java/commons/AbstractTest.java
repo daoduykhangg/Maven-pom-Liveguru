@@ -1,6 +1,5 @@
 package commons;
 
-import java.util.Collections;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
@@ -31,10 +30,10 @@ public class AbstractTest {
 		Browser browser = Browser.valueOf(browserName.toUpperCase());
 		if (browser == Browser.CHROME_UI) {
 			WebDriverManager.chromedriver().setup();
-			ChromeOptions options = new ChromeOptions();
-			options.setExperimentalOption("useAutomationExtension", false);
-			options.setExperimentalOption("excludeSwitches", Collections.singletonList("enable-automation"));
-			driver = new ChromeDriver(options);
+//			ChromeOptions options = new ChromeOptions();
+//			options.setExperimentalOption("useAutomationExtension", false);
+//			options.setExperimentalOption("excludeSwitches", Collections.singletonList("enable-automation"));
+			driver = new ChromeDriver();
 		} else if (browser == Browser.CHROME_HEADLESS) {
 			WebDriverManager.chromedriver().setup();
 			ChromeOptions options = new ChromeOptions();

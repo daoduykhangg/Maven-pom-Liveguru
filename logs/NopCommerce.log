@@ -10,3 +10,284 @@
 [INFO ] [2021-03-28 22:50:14,181]  -------------------------- FAILED -------------------------- 
 [INFO ] [2021-03-28 22:50:14,181]  -------------------------- FAILED -------------------------- 
 [INFO ] [2021-03-28 22:50:14,181]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 23:11:56,228] Step 01
+[INFO ] [2021-03-28 23:11:56,228]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-03-28 23:11:56,230] step 02
+[INFO ] [2021-03-28 23:11:56,230]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 23:11:56,230] step 03
+[INFO ] [2021-03-28 23:11:56,230]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-03-28 23:11:56,230] step 04
+[INFO ] [2021-03-28 23:11:56,230]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 23:11:56,231] step 05
+[INFO ] [2021-03-28 23:11:56,231]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 23:11:56,231] step 06
+[INFO ] [2021-03-28 23:11:56,231]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-03-28 23:11:56,231] step 07
+[INFO ] [2021-03-28 23:11:56,231]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 23:11:56,231] step 08
+[INFO ] [2021-03-28 23:11:56,231]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-03-28 23:11:56,231] step 09
+[INFO ] [2021-03-28 23:11:56,231]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-03-28 23:11:56,231] step 10
+[INFO ] [2021-03-28 23:11:56,231]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-03-28 23:11:56,231] step 11
+[INFO ] [2021-03-28 23:11:56,231]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 23:57:21,625] Step 01
+[INFO ] [2021-03-28 23:57:21,625]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-03-28 23:57:21,627] step 02
+[INFO ] [2021-03-28 23:57:21,628]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 23:57:21,628] step 03
+[INFO ] [2021-03-28 23:57:21,628]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-03-28 23:57:21,628] step 04
+[INFO ] [2021-03-28 23:57:21,628]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 23:57:21,628] step 05
+[INFO ] [2021-03-28 23:57:21,628]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 23:57:21,628] step 06
+[INFO ] [2021-03-28 23:57:21,628]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-03-28 23:57:21,628] step 07
+[INFO ] [2021-03-28 23:57:21,628]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-28 23:57:21,628] step 08
+[INFO ] [2021-03-28 23:57:21,628]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-03-28 23:57:21,628] step 09
+[INFO ] [2021-03-28 23:57:21,628]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-03-28 23:57:21,628] step 10
+[INFO ] [2021-03-28 23:57:21,628]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-03-28 23:57:21,628] step 11
+[INFO ] [2021-03-28 23:57:21,628]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:36,683] Step 01
+[INFO ] [2021-03-29 00:00:36,684]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:36,685] step 02
+[INFO ] [2021-03-29 00:00:36,685]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:36,685] step 03
+[INFO ] [2021-03-29 00:00:36,685]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:36,685] step 04
+[INFO ] [2021-03-29 00:00:36,685]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:36,685] step 05
+[INFO ] [2021-03-29 00:00:36,685]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:36,685] step 06
+[INFO ] [2021-03-29 00:00:36,685]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:36,685] step 07
+[INFO ] [2021-03-29 00:00:36,685]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:36,685] step 08
+[INFO ] [2021-03-29 00:00:36,685]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:36,685] step 09
+[INFO ] [2021-03-29 00:00:36,686]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:36,686] step 10
+[INFO ] [2021-03-29 00:00:36,686]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:36,686] step 11
+[INFO ] [2021-03-29 00:00:36,686]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:52,679] Step 01
+[INFO ] [2021-03-29 00:00:52,680]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:52,681] step 02
+[INFO ] [2021-03-29 00:00:52,681]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:52,681] step 03
+[INFO ] [2021-03-29 00:00:52,681]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:52,681] step 04
+[INFO ] [2021-03-29 00:00:52,681]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:52,681] step 05
+[INFO ] [2021-03-29 00:00:52,681]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:52,681] step 06
+[INFO ] [2021-03-29 00:00:52,681]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:52,681] step 07
+[INFO ] [2021-03-29 00:00:52,681]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:52,681] step 08
+[INFO ] [2021-03-29 00:00:52,681]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:52,681] step 09
+[INFO ] [2021-03-29 00:00:52,681]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:52,681] step 10
+[INFO ] [2021-03-29 00:00:52,681]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:00:52,681] step 11
+[INFO ] [2021-03-29 00:00:52,682]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-03-29 00:14:24,177] Step 01
+[INFO ] [2021-03-29 00:14:24,177]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:14:24,178] step 02
+[INFO ] [2021-03-29 00:14:24,178]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:14:24,178] step 03
+[INFO ] [2021-03-29 00:14:24,178]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:14:24,178] step 04
+[INFO ] [2021-03-29 00:14:24,178]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:14:24,178] step 05
+[INFO ] [2021-03-29 00:14:24,178]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:14:24,178] step 06
+[INFO ] [2021-03-29 00:14:24,178]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:14:24,178] step 07
+[INFO ] [2021-03-29 00:14:24,178]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:14:24,178] step 08
+[INFO ] [2021-03-29 00:14:24,179]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:14:24,179] step 09
+[INFO ] [2021-03-29 00:14:24,179]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:14:24,179] step 10
+[INFO ] [2021-03-29 00:14:24,179]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:14:24,179] step 11
+[INFO ] [2021-03-29 00:14:24,179]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-03-29 00:20:14,618] Step 01
+[INFO ] [2021-03-29 00:20:14,618]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:14,620] step 02
+[INFO ] [2021-03-29 00:20:14,620]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:14,620] step 03
+[INFO ] [2021-03-29 00:20:14,620]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:14,620] step 04
+[INFO ] [2021-03-29 00:20:14,620]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:14,620] step 05
+[INFO ] [2021-03-29 00:20:14,620]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:14,620] step 06
+[INFO ] [2021-03-29 00:20:14,620]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:14,620] step 07
+[INFO ] [2021-03-29 00:20:14,620]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:14,620] step 08
+[INFO ] [2021-03-29 00:20:14,620]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:14,620] step 09
+[INFO ] [2021-03-29 00:20:14,620]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:14,620] step 10
+[INFO ] [2021-03-29 00:20:14,620]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:14,620] step 11
+[INFO ] [2021-03-29 00:20:14,621]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-03-29 00:20:23,455] Step 01
+[INFO ] [2021-03-29 00:20:23,455]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:23,456] step 02
+[INFO ] [2021-03-29 00:20:23,456]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:23,456] step 03
+[INFO ] [2021-03-29 00:20:23,456]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:23,456] step 04
+[INFO ] [2021-03-29 00:20:23,456]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:23,456] step 05
+[INFO ] [2021-03-29 00:20:23,456]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:23,456] step 06
+[INFO ] [2021-03-29 00:20:23,456]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:23,456] step 07
+[INFO ] [2021-03-29 00:20:23,456]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:23,456] step 08
+[INFO ] [2021-03-29 00:20:23,456]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:23,456] step 09
+[INFO ] [2021-03-29 00:20:23,456]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:23,456] step 10
+[INFO ] [2021-03-29 00:20:23,456]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-29 00:20:23,456] step 11
+[INFO ] [2021-03-29 00:20:23,456]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-04-19 22:46:29,862] Step 01
+[INFO ] [2021-04-19 22:46:29,862]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-19 22:46:29,863] step 02
+[INFO ] [2021-04-19 22:46:29,863]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-19 22:46:29,863] step 03
+[INFO ] [2021-04-19 22:46:29,864]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-19 22:46:29,864] step 04
+[INFO ] [2021-04-19 22:46:29,864]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-19 22:46:29,864] step 05
+[INFO ] [2021-04-19 22:46:29,864]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-19 22:46:29,864] step 06
+[INFO ] [2021-04-19 22:46:29,864]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-19 22:46:29,864] step 07
+[INFO ] [2021-04-19 22:46:29,864]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-19 22:46:29,864] step 08
+[INFO ] [2021-04-19 22:46:29,864]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-19 22:46:29,864] step 09
+[INFO ] [2021-04-19 22:46:29,864]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-19 22:46:29,864] step 10
+[INFO ] [2021-04-19 22:46:29,864]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-19 22:46:29,864] step 11
+[INFO ] [2021-04-19 22:46:29,865]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-04-19 23:38:19,345] Register - Step 01: Click to 'Account' Menu
+[INFO ] [2021-04-19 23:38:19,441] Register - Step 02: Click to 'Register' Link
+[INFO ] [2021-04-19 23:38:20,090] Register - Step 03: Enter to 'First Name' Textbox with value 'Leroy'
+[INFO ] [2021-04-19 23:38:20,652] Register - Step 04: Enter to 'Middle Name/Initial' Textbox with value 'Duy'
+[INFO ] [2021-04-19 23:38:21,215] Register - Step 05: Enter to 'Last Name' Textbox with value 'Bruen'
+[INFO ] [2021-04-19 23:38:21,791] Register - Step 06: Enter to 'Email Address' Textbox with value 'sherwood.connelly@gmail.com'
+[INFO ] [2021-04-19 23:38:22,369] Register - Step 07: Enter to 'Password' Textbox with value 'qpunxd1'
+[INFO ] [2021-04-19 23:38:22,930] Register - Step 08: Enter to 'Confirm Password' Textbox with value 'qpunxd1'
+[INFO ] [2021-04-19 23:38:23,495] Register - Step 09: Click to 'Register' Button
+[INFO ] [2021-04-19 23:38:23,496] Register - Step 10: Verify the success message is displayed with value 'Thank you for registering with Main Website Store.' 
+[INFO ] [2021-04-19 23:39:27,228] Register - Step 01: Click to 'Account' Menu
+[INFO ] [2021-04-19 23:39:27,305] Register - Step 02: Click to 'Register' Link
+[INFO ] [2021-04-19 23:39:27,909] Register - Step 03: Enter to 'First Name' Textbox with value 'Jae'
+[INFO ] [2021-04-19 23:39:28,468] Register - Step 04: Enter to 'Middle Name/Initial' Textbox with value 'Duy'
+[INFO ] [2021-04-19 23:39:29,030] Register - Step 05: Enter to 'Last Name' Textbox with value 'Hodkiewicz'
+[INFO ] [2021-04-19 23:39:29,598] Register - Step 06: Enter to 'Email Address' Textbox with value 'georgianna.schowalter@hotmail.com'
+[INFO ] [2021-04-19 23:39:30,177] Register - Step 07: Enter to 'Password' Textbox with value '7drexmk'
+[INFO ] [2021-04-19 23:39:30,739] Register - Step 08: Enter to 'Confirm Password' Textbox with value '7drexmk'
+[INFO ] [2021-04-19 23:39:31,301] Register - Step 09: Click to 'Register' Button
+[INFO ] [2021-04-19 23:39:33,150] Register - Step 10: Verify the success message is displayed with value 'Thank you for registering with Main Website Store.' 
+[INFO ] [2021-04-19 23:39:33,180]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-19 23:39:57,499] Register - Step 01: Click to 'Account' Menu
+[INFO ] [2021-04-19 23:39:57,581] Register - Step 02: Click to 'Register' Link
+[INFO ] [2021-04-19 23:39:58,189] Register - Step 03: Enter to 'First Name' Textbox with value 'Elisha'
+[INFO ] [2021-04-19 23:39:58,750] Register - Step 04: Enter to 'Middle Name/Initial' Textbox with value 'Duy'
+[INFO ] [2021-04-19 23:39:59,314] Register - Step 05: Enter to 'Last Name' Textbox with value 'Barton'
+[INFO ] [2021-04-19 23:39:59,876] Register - Step 06: Enter to 'Email Address' Textbox with value 'terrence.dietrich@hotmail.com'
+[INFO ] [2021-04-19 23:40:00,443] Register - Step 07: Enter to 'Password' Textbox with value 'kkwf9wd'
+[INFO ] [2021-04-19 23:40:01,011] Register - Step 08: Enter to 'Confirm Password' Textbox with value 'kkwf9wd'
+[INFO ] [2021-04-19 23:40:01,595] Register - Step 09: Click to 'Register' Button
+[INFO ] [2021-04-19 23:40:03,002] Register - Step 10: Verify the success message is displayed with value 'Thank you for registering with Main Website Store.' 
+[INFO ] [2021-04-19 23:40:03,032]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-20 00:33:12,414] Register - Step 01: Click to 'Account' Menu
+[INFO ] [2021-04-20 00:33:12,501] Register - Step 02: Click to 'Register' Link
+[INFO ] [2021-04-20 00:33:13,131] Register - Step 03: Enter to 'First Name' Textbox with value 'Mamie'
+[INFO ] [2021-04-20 00:33:13,700] Register - Step 04: Enter to 'Middle Name/Initial' Textbox with value 'Duy'
+[INFO ] [2021-04-20 00:33:14,261] Register - Step 05: Enter to 'Last Name' Textbox with value 'Wunsch'
+[INFO ] [2021-04-20 00:33:14,830] Register - Step 06: Enter to 'Email Address' Textbox with value 'margery.mohr@yahoo.com'
+[INFO ] [2021-04-20 00:33:15,408] Register - Step 07: Enter to 'Password' Textbox with value 'pljwwf'
+[INFO ] [2021-04-20 00:33:15,970] Register - Step 08: Enter to 'Confirm Password' Textbox with value 'pljwwf'
+[INFO ] [2021-04-20 00:33:16,531] Register - Step 09: Click to 'Register' Button
+[INFO ] [2021-04-20 00:33:18,039] Register - Step 10: Verify the success message is displayed with value 'Thank you for registering with Main Website Store.' 
+[INFO ] [2021-04-20 00:33:18,068]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-20 00:33:18,124] Register[Verify]  - Step 01: Click to 'My Account' Link
+[INFO ] [2021-04-20 00:33:18,649] Register[Verify]  - Step 02: Click to 'Account Information' Link
+[INFO ] [2021-04-20 00:33:19,057] Register[Verify]  - Step 03: Verify the value of 'Firstname' Textbox is displayed with value 'Mamie'
+[INFO ] [2021-04-20 00:33:19,086]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-04-20 00:33:19,086] Register[Verify]  - Step 04: Verify the value of 'Lastname' Textbox is displayed with value 'Wunsch'
+[INFO ] [2021-04-20 00:33:19,110]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-04-20 00:33:19,110] Register[Verify]  - Step 05: Verify the value of 'Email' Textbox is displayed with value 'margery.mohr@yahoo.com'
+[INFO ] [2021-04-20 00:35:42,618] Register - Step 01: Click to 'Account' Menu
+[INFO ] [2021-04-20 00:35:42,702] Register - Step 02: Click to 'Register' Link
+[INFO ] [2021-04-20 00:35:43,300] Register - Step 03: Enter to 'First Name' Textbox with value 'Shemeka'
+[INFO ] [2021-04-20 00:35:43,865] Register - Step 04: Enter to 'Middle Name/Initial' Textbox with value 'Duy'
+[INFO ] [2021-04-20 00:35:44,426] Register - Step 05: Enter to 'Last Name' Textbox with value 'Beier'
+[INFO ] [2021-04-20 00:35:44,995] Register - Step 06: Enter to 'Email Address' Textbox with value 'lloyd.moen@gmail.com'
+[INFO ] [2021-04-20 00:35:45,564] Register - Step 07: Enter to 'Password' Textbox with value '1r20aj'
+[INFO ] [2021-04-20 00:35:46,122] Register - Step 08: Enter to 'Confirm Password' Textbox with value '1r20aj'
+[INFO ] [2021-04-20 00:35:46,685] Register - Step 09: Click to 'Register' Button
+[INFO ] [2021-04-20 00:35:48,187] Register - Step 10: Verify the success message is displayed with value 'Thank you for registering with Main Website Store.' 
+[INFO ] [2021-04-20 00:35:48,215]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-20 00:35:48,272] Register[Verify]  - Step 01: Click to 'My Account' Link
+[INFO ] [2021-04-20 00:35:48,788] Register[Verify]  - Step 02: Click to 'Account Information' Link
+[INFO ] [2021-04-20 00:35:49,319] Register[Verify]  - Step 03: Verify the value of 'Firstname' Textbox is displayed with value 'Shemeka'
+[INFO ] [2021-04-20 00:35:49,343]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-20 00:35:49,343] Register[Verify]  - Step 04: Verify the value of 'Lastname' Textbox is displayed with value 'Beier'
+[INFO ] [2021-04-20 00:35:49,367]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-04-20 00:35:49,367] Register[Verify]  - Step 05: Verify the value of 'Email' Textbox is displayed with value 'lloyd.moen@gmail.com'
+[INFO ] [2021-04-20 00:37:22,832] Register - Step 01: Click to 'Account' Menu
+[INFO ] [2021-04-20 00:37:22,909] Register - Step 02: Click to 'Register' Link
+[INFO ] [2021-04-20 00:37:23,499] Register - Step 03: Enter to 'First Name' Textbox with value 'Trent'
+[INFO ] [2021-04-20 00:37:24,065] Register - Step 04: Enter to 'Middle Name/Initial' Textbox with value 'Duy'
+[INFO ] [2021-04-20 00:37:24,642] Register - Step 05: Enter to 'Last Name' Textbox with value 'Champlin'
+[INFO ] [2021-04-20 00:37:25,207] Register - Step 06: Enter to 'Email Address' Textbox with value 'mariana.sawayn@gmail.com'
+[INFO ] [2021-04-20 00:37:25,775] Register - Step 07: Enter to 'Password' Textbox with value 'dpqt7r'
+[INFO ] [2021-04-20 00:37:26,348] Register - Step 08: Enter to 'Confirm Password' Textbox with value 'dpqt7r'
+[INFO ] [2021-04-20 00:37:26,939] Register - Step 09: Click to 'Register' Button
+[INFO ] [2021-04-20 00:37:28,377] Register - Step 10: Verify the success message is displayed with value 'Thank you for registering with Main Website Store.' 
+[INFO ] [2021-04-20 00:37:28,408]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-20 00:37:28,463] Register[Verify]  - Step 01: Click to 'My Account' Link
+[INFO ] [2021-04-20 00:37:29,009] Register[Verify]  - Step 02: Click to 'Account Information' Link
+[INFO ] [2021-04-20 00:37:29,521] Register[Verify]  - Step 03: Verify the value of 'Firstname' Textbox is displayed with value 'Trent'
+[INFO ] [2021-04-20 00:37:29,548]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-20 00:37:29,548] Register[Verify]  - Step 04: Verify the value of 'Lastname' Textbox is displayed with value 'Champlin'
+[INFO ] [2021-04-20 00:37:29,571]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-20 00:37:29,571] Register[Verify]  - Step 05: Verify the value of 'Email' Textbox is displayed with value 'mariana.sawayn@gmail.com'
+[INFO ] [2021-04-20 00:41:27,297] Register - Step 01: Click to 'Account' Menu
+[INFO ] [2021-04-20 00:41:27,390] Register - Step 02: Click to 'Register' Link
+[INFO ] [2021-04-20 00:41:27,990] Register - Step 03: Enter to 'First Name' Textbox with value 'Niki'
+[INFO ] [2021-04-20 00:41:28,547] Register - Step 04: Enter to 'Middle Name/Initial' Textbox with value 'Duy'
+[INFO ] [2021-04-20 00:41:29,112] Register - Step 05: Enter to 'Last Name' Textbox with value 'D'Amore'
+[INFO ] [2021-04-20 00:41:29,676] Register - Step 06: Enter to 'Email Address' Textbox with value 'luann.batz@hotmail.com'
+[INFO ] [2021-04-20 00:41:30,241] Register - Step 07: Enter to 'Password' Textbox with value '09bq2um'
+[INFO ] [2021-04-20 00:41:30,807] Register - Step 08: Enter to 'Confirm Password' Textbox with value '09bq2um'
+[INFO ] [2021-04-20 00:41:31,373] Register - Step 09: Click to 'Register' Button
+[INFO ] [2021-04-20 00:41:32,750] Register - Step 10: Verify the success message is displayed with value 'Thank you for registering with Main Website Store.' 
+[INFO ] [2021-04-20 00:41:32,778]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-20 00:41:32,837] Register[Verify]  - Step 01: Click to 'My Account' Link
+[INFO ] [2021-04-20 00:41:33,332] Register[Verify]  - Step 02: Click to 'Account Information' Link
+[INFO ] [2021-04-20 00:41:33,820] Register[Verify]  - Step 03: Verify the value of 'Firstname' Textbox is displayed with value 'Niki'
+[INFO ] [2021-04-20 00:41:33,847]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-20 00:41:33,847] Register[Verify]  - Step 04: Verify the value of 'Lastname' Textbox is displayed with value 'D'Amore'
+[INFO ] [2021-04-20 00:41:33,871]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-04-20 00:41:33,871] Register[Verify]  - Step 05: Verify the value of 'Email' Textbox is displayed with value 'luann.batz@hotmail.com'
+[INFO ] [2021-04-20 00:41:33,908]  -------------------------- PASSED -------------------------- 
