@@ -54,7 +54,7 @@ public class AbstractPage {
 	}
 
 	protected String getTextAlert(WebDriver driver) {
-		return driver.switchTo().alert().getText();
+		return driver.switchTo().alert().getText().trim();
 	}
 
 	protected void sendkeyToAlert(WebDriver driver, String value) {
@@ -155,7 +155,7 @@ public class AbstractPage {
 	protected String getFirstSelectedText(WebDriver driver, String locator) {
 		element = getElement(driver, locator);
 		select = new Select(element);
-		return select.getFirstSelectedOption().getText();
+		return select.getFirstSelectedOption().getText().trim();
 	}
 
 	protected boolean isDropdownMultiple(WebDriver driver, String locator) {
@@ -191,7 +191,7 @@ public class AbstractPage {
 
 	protected String getElementText(WebDriver driver, String locator) {
 		element = getElement(driver, locator);
-		return element.getText();
+		return element.getText().trim();
 	}
 
 	protected int CountElementNumber(WebDriver driver, String locator) {

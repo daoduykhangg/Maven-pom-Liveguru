@@ -92,10 +92,10 @@ public class User_01_Register extends AbstractTest {
 		driver.close();
 	}
 
-	FakerConfig fakeData;
-	HomePageObject homePage;
-	RegisterPageObject registerPage;
-	AccountDashboardPageObject accountDashboardPage;
-	AccountInformationPageObject accountInformationPage;
-	String firstName, middleName, lastName, email, password;
+	private FakerConfig fakeData;
+	private HomePageObject homePage;
+	private RegisterPageObject registerPage;
+	private AccountDashboardPageObject accountDashboardPage;
+	private AccountInformationPageObject accountInformationPage;
+	private String firstName, middleName, lastName, email, password;
 }
